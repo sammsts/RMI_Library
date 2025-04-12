@@ -17,7 +17,7 @@ This project uses a **Client-Server architecture**:
 ---
 
 ## 📂 Project Structure
-
+```
 BibliotecaRMI/
 ├── comum/
 │   └── Biblioteca.java        ← Remote interface
@@ -26,7 +26,7 @@ BibliotecaRMI/
 │   └── Servidor.java          ← Start the RMI server
 └── cliente/
     └── Cliente.java           ← RMI Client with Menu
-
+```
 ---
 
 ## 🚀 Features
